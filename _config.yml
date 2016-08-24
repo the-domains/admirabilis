@@ -1,0 +1,14 @@
+layout_spectrum: 0.318910522852093
+typography_spectrum: 0.14097158587537706
+color:
+  brandStrength: 0.6090463204309344
+  lightness: 0.017477669287472963
+  saturation: 0.17534058238379657
+  rhythmicContrast: 0.3623896059580147
+  brandColors:
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+name: Admirabilis
