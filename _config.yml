@@ -1,20 +1,32 @@
-typography_spectrum: 0.14097158587537706
+title: ingenuity.
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.6899642
   brandStrength: 0.6090463204309344
-  lightness: 0.017477669287472963
-  saturation: 0.17534058238379657
-  rhythmicContrast: 0.3623896059580147
+  lightness: 0.3422939
   brandColors:
     - '#000000'
     - '#404040'
     - '#808080'
     - '#BFBFBF'
     - '#FFFFFF'
-layout_spectrum: 0.318910522852093
-name: Admirabilis
+  rhythmicContrast: 0.3261649
+typography_spectrum: 0.4408602
+description: something beyond drones...
 navigation:
   - name: inav history
     id: c04c24f8-89d5-4547-97ff-70d1780acaea
     type: content
-title: ingenuity.
-description: something beyond drones...
+layout_spectrum: 1
+name: Admirabilis
