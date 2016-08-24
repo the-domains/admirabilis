@@ -6,9 +6,9 @@ color:
   saturation: 0.17534058238379657
   rhythmicContrast: 0.3623896059580147
   brandColors:
-    - '#000000'
-    - '#404040'
-    - '#808080'
-    - '#BFBFBF'
-    - '#FFFFFF'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: Admirabilis
