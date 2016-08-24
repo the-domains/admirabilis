@@ -1,4 +1,3 @@
-layout_spectrum: 0.318910522852093
 typography_spectrum: 0.14097158587537706
 color:
   brandStrength: 0.6090463204309344
@@ -6,9 +5,11 @@ color:
   saturation: 0.17534058238379657
   rhythmicContrast: 0.3623896059580147
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+layout_spectrum: 0.318910522852093
 name: Admirabilis
+title: ingenuity.
