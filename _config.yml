@@ -12,5 +12,9 @@ color:
     - '#FFFFFF'
 layout_spectrum: 0.318910522852093
 name: Admirabilis
+navigation:
+  - name: inav history
+    id: c04c24f8-89d5-4547-97ff-70d1780acaea
+    type: content
 title: ingenuity.
 description: something beyond drones...
